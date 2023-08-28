@@ -9,9 +9,7 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning Computer Vision and Web Development
 - 👯 I’m looking to collaborate on Big Data projects
 - 💬 Ask me about Distributed Sytems, Computer Vision, Deep Learning, and Machine Learning.
-- 📫 How to reach me:
-- (https://skillicons.dev/icons?i=linkedin)(https://skillicons.dev)https://www.linkedin.com/in/arya-adesh/
-
+- 📫 How to reach me: https://www.linkedin.com/in/arya-adesh
 - ⚡ Fun fact: I am a Bibilophile
 -  😄 My Skills:
 
