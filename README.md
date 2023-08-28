@@ -13,5 +13,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: I am a Bibilophile
 -  😄 My Skills:
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,c,cpp,python,java,flask,php,react,nodejs,mysql,mongo,tenserflow,matlab,arduino)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,c,cpp,python,java,flask,php,react,nodejs,mysql,mongo,tensorflow,postman,matlab,arduino)](https://skillicons.dev)
 
